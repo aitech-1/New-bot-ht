@@ -3,7 +3,7 @@
 Men README.md konplè a, tout ansanm:
 
 ```markdown
-# 🤖 EdwaTECH-md
+# 🤖 New-bot-ht
 
 <div align="center">
 
@@ -90,8 +90,8 @@ pkg update && pkg upgrade
 pkg install git nodejs -y
 
 # Cloner le dépôt
-git clone https://github.com/botwa7/EdwaTECH-md.git
-cd EdwaTECH-md
+git clone https://github.com/botwa7/New-bot-ht.git
+cd New-bot-ht
 
 # Installer les dépendances
 npm install
@@ -104,8 +104,8 @@ node index.js
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/botwa7/EdwaTECH-md.git
-cd EdwaTECH-md
+git clone https://github.com/botwa7/New-bot-ht.git
+cd New-bot-ht
 
 # Installer les dépendances
 npm install
@@ -118,8 +118,8 @@ node index.js
 
 ```bash
 # Ouvrir un terminal et exécuter :
-git clone https://github.com/botwa7/EdwaTECH-md.git
-cd EdwaTECH-md
+git clone https://github.com/botwa7/New-bot-ht.git
+cd New-bot-ht
 npm install
 node index.js
 ```
@@ -161,12 +161,12 @@ Ouvrez le fichier `config.js` et modifiez les valeurs :
 
 ```javascript
 module.exports = {
-    BOT_NAME: "Edwa-md 🇭🇹",           // Nom du bot
+    BOT_NAME: "New-bot-ht",           // Nom du bot
     OWNER_NAME: "BOSS 『E』『d』『w』『a』", // Votre nom
     OWNER_NUMBER: "50943099723",        // VOTRE numéro (sans +)
     OWNER_LINK: "https://wa.me/message/LVB523ITVYMCF1",    // Lien WhatsApp
     CHANNEL_LINK: "https://whatsapp.com/channel/0029VaX7FVI2Jl8Ek9Ce383k",        // Lien Channel
-    REPO_LINK: "https://github.com/botwa7/EdwaTECH-md",
+    REPO_LINK: "https://github.com/botwa7/New-bot-ht.git",
     PREFIX: ".",                        // Préfixe des commandes
     MODE: "public",                     // 'public' ou 'private'
     VERSION: "2.1.0",
@@ -264,18 +264,18 @@ termux-wake-lock
 
 ```bash
 # Cloner et installer
-git clone https://github.com/botwa7/EdwaTECH-md.git
-cd EdwaTECH-md
+git clone https://github.com/botwa7/New-bot-ht.git
+cd New-bot-ht
 npm install
 
 # Utiliser PM2 pour garder le bot actif
 npm install -g pm2
-pm2 start index.js --name Edwa-MD
+pm2 start index.js --name New-bot-ht
 pm2 save
 pm2 startup
 
 # Voir les logs
-pm2 logs Edwa-MD
+pm2 logs New-bot-ht
 ```
 
 ---
