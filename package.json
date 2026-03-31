@@ -29,14 +29,14 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=20.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/botwa7/EdwaTECH-md.git"
+    "url": "https://github.com/botwa7/New-bot-ht.git"
   },
   "bugs": {
-    "url": "https://github.com/botwa7/EdwaTECH-md/issues"
+    "url": "https://github.com/botwa7/New-bot-ht/issues"
   },
-  "homepage": "https://github.com/botwa7/EdwaTECH-md#readme"
+  "homepage": "https://github.com/botwa7/New-bot-ht#readme"
 }
